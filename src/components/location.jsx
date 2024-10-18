@@ -103,23 +103,23 @@ const Location = () => {
         className="root_daum_roughmap root_daum_roughmap_landing"
       ></Map>
       <Content>
-        대구 수성구 두산동 888-2번지
+        광주 광산구 임방울대로 549
         <br />
-        호텔수성 수성스퀘어 3층 피오니홀
+        드메르 4층 라비엔홀
         <br />
         <br />
         <Title>버스 이용시</Title>
         <br />
         <br />
-        410-1, 401 호텔수성 앞 하차
+        그냥찾아서알아서오세요
         <br />
-        수성1-1, 수성3-1, 814 TBC방송국 앞 하차
+        차없으면오지마세요
         <br />
         <br />
         <Title>지하철 이용시</Title>
         <br />
         <br />
-        3호선 수성못역 하차 (도보 10분)
+        3호선 존못역 하차 (도보 10분)
       </Content>
     </Wrapper>
   );
